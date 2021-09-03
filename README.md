@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ardiansyah311
+- 👋 Hi, I’m Ardian
 - 👀 I’m interested in data scientist, research & development, and business analyze
 - 🌱 I’m currently learning to make some analyze, program, mechine learning, etc from R program, Python, and SQL
 - 💞️ I’m looking to collaborate on make some project
